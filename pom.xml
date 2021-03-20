@@ -34,6 +34,7 @@
     <modules>
         <module>micro-one</module>
         <module>micro-two</module>
+        <module>http-proto</module>
     </modules>
 
 </project>
